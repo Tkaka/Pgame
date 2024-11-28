@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: eff_tex_trail_d_27_02_mat
+  m_Shader: {fileID: 4800000, guid: 54b321f092c4bcd418bcdabd6ecf600a, type: 3}
+  m_ShaderKeywords: All_Additive
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 2800000, guid: c1f795412409fa94fb146cdf6251ecce, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissloveTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7e31c5fd822131f49a568c236e992e13, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 0fad4bdc534cd2e42b6033428a5b8a11, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ForceX: 0.02
+    - _ForceY: 0.02
+    - _HeatTime: 0.5
+    - _burnSize: 0.25
+    - _mix: 0.35
+    m_Colors:
+    - _TintColor: {r: 0.9632353, g: 0.9632353, b: 0.9632353, a: 1}
+    - _burnColor: {r: 0, g: 0, b: 0, a: 0}

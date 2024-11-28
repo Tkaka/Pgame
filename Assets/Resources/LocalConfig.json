@@ -1,0 +1,26 @@
+{
+	"formal" : 
+	{
+		"cmd" : "1,2,3,4,1",
+		"appVer" : "1.0.0",
+		"forceResVer" : "1.0.0",
+		"fullPackage": "true",
+		
+		"configUrl" :
+		[
+			{"url" : "http://118.24.106.18/gameconfig/version_config.json", "random" : 1000}
+		]
+	}
+	
+	"fake1" :
+	{
+		"cmd" : "1,2,3,4",
+		"appVer" : "1.0.0",
+		"forceResVer" : "1.2.0",
+		"fullPackage": "true",
+		"configUrl" :
+		[
+			{"url" : "http://118.24.106.18/gameconfig/version_config.json", "random" : 1000}
+		]
+	}
+}

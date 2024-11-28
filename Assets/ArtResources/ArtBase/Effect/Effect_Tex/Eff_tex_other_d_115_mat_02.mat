@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Eff_tex_other_d_115_mat_02
+  m_Shader: {fileID: 4800000, guid: 54b321f092c4bcd418bcdabd6ecf600a, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 2800000, guid: e7383a14c9123634b91ffd88ee401c37, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 1130878f610c8fe4f8b91256dfb8236e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: b6aa71da1bc9eeb4aae7cbbaac55488a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 0c11974e303acae4489df86602231777, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ClipEdge: 0.28
+    - _ClipEdgePower: 5
+    - _CutBias: 0
+    - _Cutoff: 0.5
+    - _DiffusePower: 10
+    - _DistortPower: 2.94
+    - _ForceX: 0.1
+    - _ForceY: 0.1
+    - _HeatTime: -0.57
+    - _InvFade: 1
+    m_Colors:
+    - _DiffuseColor: {r: 0, g: 0.04579093, b: 0.9485294, a: 1}
+    - _TintColor: {r: 0, g: 0.13103485, b: 1, a: 1}

@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: eff_tex_crack_a_12_mat_04
+  m_Shader: {fileID: 4800000, guid: a7ecb8b368e88184dafd61e75cd586e6, type: 3}
+  m_ShaderKeywords: All_Additive
+  m_LightmapFlags: 5
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 2800000, guid: 0a51a64e2997ebb4082a80e8fc482e0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DissloveTex:
+        m_Texture: {fileID: 2800000, guid: 2f6418ec964d89b4bada779acf94060c, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 0a51a64e2997ebb4082a80e8fc482e0e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 37a409f5c8cc14e40ace9d1d765ec410, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _ForceX: 0.015
+    - _ForceY: 0.01
+    - _HeatTime: -0.257
+    - _burnSize: 0.233
+    - _mix: 0.253
+    m_Colors:
+    - _TintColor: {r: 1, g: 1, b: 1, a: 1}
+    - _burnColor: {r: 1, g: 0.6008114, b: 0.09558821, a: 0}

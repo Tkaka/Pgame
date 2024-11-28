@@ -1,0 +1,245 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: eff_tex_rock_d_37_1_mat
+  m_Shader: {fileID: 4800000, guid: 05a1f60ce2544884c9342bb7a239d7fe, type: 3}
+  m_ShaderKeywords: _EMISSION
+  m_LightmapFlags: 1
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Alpha:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _AreaTex:
+        m_Texture: {fileID: 2800000, guid: 0fad4bdc534cd2e42b6033428a5b8a11, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Base:
+        m_Texture: {fileID: 2800000, guid: 862363d27e38dcf47b90e28c52cc3ac5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BlendMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ClipNois:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Diffuse:
+        m_Texture: {fileID: 2800000, guid: 862363d27e38dcf47b90e28c52cc3ac5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortG:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortPattern:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DistortR:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EffecttoRedChannel:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FallOffColorMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Logo:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7385aae82ccfdcd44900b05cefa72d16, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: -0.43}
+    - _Mask:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MatCap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Noise:
+        m_Texture: {fileID: 2800000, guid: 862363d27e38dcf47b90e28c52cc3ac5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: 862363d27e38dcf47b90e28c52cc3ac5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Normal:
+        m_Texture: {fileID: 2800000, guid: 6fdc144b1669ccf48835eddb0fa71867, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _PanMap:
+        m_Texture: {fileID: 2800000, guid: 1adf461ef41e1964cbf6944aace540eb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimLightSampler:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _SOGMap:
+        m_Texture: {fileID: 2800000, guid: 7385aae82ccfdcd44900b05cefa72d16, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _0_: 0
+    - _1_: 0
+    - _2_diffuse: 0
+    - _4_: 0.1
+    - _AlphaBias: 0
+    - _Alphabias: 0
+    - _BumpScale: 1
+    - _ClipBias: 0
+    - _ClipEdge: 16.8
+    - _ClipEdgePower: 100
+    - _Clipbias: 0.1
+    - _ColorPower: 2.77
+    - _ColorPowerR: 2
+    - _ColorRPower: 1
+    - _Colorpower: 1.3
+    - _CutBias: 0
+    - _CutOff: 0
+    - _Cutoff: 0.5
+    - _Desaturate: 0
+    - _DetailNormalMapScale: 1
+    - _DiffusePower: 10
+    - _Diffusepower: 2
+    - _DistortPower: 10
+    - _Distortion: 10
+    - _DstBlend: 0
+    - _EmissionPower: 0
+    - _FallOffPower: 1
+    - _FallOffstep: 0
+    - _FresnelPower: 5
+    - _GPower: 1
+    - _Gloss: 0
+    - _GlossMapScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _Hei: 1
+    - _Hit: 1.8
+    - _InvFade: 1
+    - _LerpS: 0.5
+    - _Metallic: 0
+    - _Mode: 0
+    - _MoveForce: 0.1
+    - _MoveSpeed: 0.1
+    - _OcclusionStrength: 1
+    - _OutLinePow: 1
+    - _OutWidth: 9.09
+    - _PanPower: 2
+    - _PanU: 1
+    - _PanV: 1
+    - _PannerPower: 1
+    - _Parallax: 0.02
+    - _Power: 1
+    - _RPower: 10
+    - _RedChannelBlinkPower: 2.48
+    - _ReflectPower: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecularHighlights: 1
+    - _SpecularPower: 1
+    - _SpecularStep: 2
+    - _Speed: 0.2
+    - _SpeedGX: 1
+    - _SpeedGY: 1
+    - _SpeedRX: 0.4
+    - _SpeedRY: 0.4
+    - _SrcBlend: 1
+    - _Tile: 0
+    - _UOffset: 0
+    - _USpeed: 1
+    - _UTiling: 1
+    - _UVSec: 0
+    - _U_Speed: 0
+    - _VOffset: 0
+    - _VSpeed: 1
+    - _VTiling: 1
+    - _V_Speed: 1
+    - _Wid: 1
+    - _ZWrite: 1
+    - _rollinspeed: 2
+    - _u: 1
+    - _v: 1
+    m_Colors:
+    - _3_color: {r: 1, g: 0, b: 0, a: 1}
+    - _Color: {r: 0.6838235, g: 0.85608524, b: 1, a: 1}
+    - _ColorR: {r: 0.5, g: 0.40902635, b: 0.21323529, a: 1}
+    - _DiffuseColor: {r: 1, g: 1, b: 1, a: 1}
+    - _Diffusecolor: {r: 0.4980392, g: 0.4980392, b: 0.4980392, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FallOffColor: {r: 1, g: 1, b: 1, a: 1}
+    - _FresnelColor: {r: 0.34791306, g: 0.35419026, b: 0.47794116, a: 1}
+    - _MainColor: {r: 0.125, g: 0.09774341, b: 0.08547794, a: 1}
+    - _OutLineColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PanColor: {r: 0.24264705, g: 0.24264705, b: 0.24264705, a: 1}
+    - _PannerColor: {r: 0, g: 0, b: 0, a: 1}
+    - _RedChannelColor: {r: 0, g: 0.5862069, b: 1, a: 1}
+    - _ShadowColor: {r: 0, g: 0, b: 0, a: 1}
+    - _SpecularColor: {r: 0, g: 0, b: 0, a: 1}
+    - _TintColor: {r: 0, g: 0.42068958, b: 1, a: 1}
